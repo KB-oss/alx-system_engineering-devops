@@ -1,16 +1,19 @@
-.
-..
-0-hello_world
-1-confused_smiley
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-7-file
-8-cwd_state
-*\"Best School"\\*$?*****:)
-ghp_MxxNUvlS4zvKf7rbhX6sarLY0I4G9tJ
-iacta
-ls_cwd_content
-README.md
+total 60
+-rw-r--r-- 1 root root 214 May 30 07:22 
+drwxr-xr-x 2 root root 333 May 30 07:26 .
+drwxr-xr-x 7 root root 143 May 30 05:17 ..
+-rwxr-xr-x 1 root root  32 May 30 05:38 0-hello_world
+-rwxr-xr-x 1 root root  28 May 30 05:51 1-confused_smiley
+-rwxr-xr-x 1 root root  28 May 30 06:05 2-hellofile
+-rwxr-xr-x 1 root root  39 May 30 06:07 3-twofiles
+-rwxr-xr-x 1 root root  35 May 30 06:14 4-lastlines
+-rwxr-xr-x 1 root root  35 May 30 06:18 5-firstlines
+-rwxr-xr-x 1 root root  40 May 30 06:31 6-third_line
+-rwxr-xr-x 1 root root  77 May 30 07:11 7-file
+-rwxr-xr-x 1 root root  35 May 30 07:19 8-cwd_state
+-rw-r--r-- 1 root root  13 May 30 07:13 *\"Best School"\\*$?*****:)
+-rw-r--r-- 1 root root 220 May 30 07:26 clear
+-rw-r--r-- 1 root root 212 May 30 07:21 ghp_MxxNUvlS4zvKf7rbhX6sarLY0I4G9tJ
+-rw-r--r-- 1 root root 757 May 30 06:29 iacta
+-rwxr-xr-x 1 root root   0 May 30 07:29 ls_cwd_content
+-rw-r--r-- 1 root root   8 May 30 05:22 README.md
